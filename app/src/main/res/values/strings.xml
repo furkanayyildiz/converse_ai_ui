@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConversAI</string>
+    <string name="toolBarText">ConversAI</string>
+    <string name="welcomeTitle">Welcome to </string>
+    <string name="conversAITitle">ConversAI</string>
+    <string name="description">Start chatting with ConversAI now. You can ask me anything </string>
+    <string name="startChatButton">Start Chat</string>
+</resources>

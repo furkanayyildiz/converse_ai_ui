@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConversAI</string>
+    <string name="toolBarText">ConversAI</string>
+    <string name="welcomeTitle">Hoşgeldiniz</string>
+    <string name="conversAITitle">ConversAI</string>
+    <string name="description">ConversAI ile konuşmaya hemen başla. Bana her şeyi sorabilirsin </string>
+    <string name="startChatButton">Konuşmaya Başla</string>
+</resources>
